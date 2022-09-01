@@ -7,4 +7,8 @@ public class Madhavi {
 		System.out.println("madhavi is my friend");
 	}
 
+	
 }
+
+
+
